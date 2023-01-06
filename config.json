@@ -1,18 +1,20 @@
-[
-  {
-    "id": "1",
-    "appName": "Mini app 1",
-    "containerName": "app1",
-    "module": "./App",
-    "url": "https://raw.githubusercontent.com/4tek-sion/supper-app-config/main/app1/ios/v4/app1.zip",
-    "version": 1.0
-  },
-  {
-    "id": "2",
-    "appName": "Mini app 2",
-    "containerName": "app2",
-    "module": "./App",
-    "url": "https://raw.githubusercontent.com/4tek-sion/supper-app-config/main/app2/v2/app2.zip",
-    "version": 1.0
-  }
-]
+{
+  "data": [
+    {
+      "id": "1",
+      "appName": "Mini app 1",
+      "containerName": "app1",
+      "module": "./App",
+      "url": "https://raw.githubusercontent.com/4tek-sion/supper-app-config/main/app1/ios/v4/app1.zip",
+      "version": 1.0
+    },
+    {
+      "id": "2",
+      "appName": "Mini app 2",
+      "containerName": "app2",
+      "module": "./App",
+      "url": "https://raw.githubusercontent.com/4tek-sion/supper-app-config/main/app2/v2/app2.zip",
+      "version": 1.0
+    }
+  ]
+}
