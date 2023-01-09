@@ -5,8 +5,8 @@
     "containerName": "app1",
     "module": "./App",
     "url": "https://raw.githubusercontent.com/4tek-sion/supper-app-config/main/app1/ios/v4/app1.zip",
-    "version": 1.0,
-    "checksum": "7fd456ef394e657f74a629bcbf0931f8bef5db8b3183881f63dfa41f144a1c26"
+    "checksum": "e32c6a7da362b0864d986dc81c4915786dd417947394b882c8bd567287e647e5",
+    "version": 1.0
   },
   {
     "id": "2",
@@ -14,7 +14,7 @@
     "containerName": "app2",
     "module": "./App",
     "url": "https://raw.githubusercontent.com/4tek-sion/supper-app-config/main/app2/v2/app2.zip",
-    "version": 1.0,
-    "checksum": "7fd456ef394e657f74a629bcbf0931f8bef5db8b3183881f63dfa41f144a1c26"
+    "checksum": "e32c6a7da362b0864d986dc81c4915786dd417947394b882c8bd567287e647e5",
+    "version": 1.0
   }
 ]
