@@ -6,8 +6,11 @@
       "containerName": "app1",
       "module": "./App",
       "url": "https://raw.githubusercontent.com/4tek-sion/supper-app-config/main/app1/ios/v4/app1.zip",
-      "checksum": "e32c6a7da362b0864d986dc81c4915786dd417947394b882c8bd567287e647e5",
-      "version": 1.0
+      "version": 1.0,
+      "checksum_container":
+        "3c0184a12140e2220fec2f02f11967b16c7ea86030e3a1a64091f225f281f34c",
+      "checksum_chunk":
+        "f03862b9bb0e1d5a500c6ebf405d60a91f27ba143b9b1eef3d1a29fade19b323"
     },
     {
       "id": "2",
@@ -15,8 +18,11 @@
       "containerName": "app2",
       "module": "./App",
       "url": "https://raw.githubusercontent.com/4tek-sion/supper-app-config/main/app2/v2/app2.zip",
-      "checksum": "e32c6a7da362b0864d986dc81c4915786dd417947394b882c8bd567287e647e5",
-      "version": 1.0
+      "version": 1.0,
+      "checksum_container":
+        "e32c6a7da362b0864d986dc81c4915786dd417947394b882c8bd567287e647e5",
+      "checksum_chunk":
+        "e32c6a7da362b0864d986dc81c4915786dd417947394b882c8bd567287e647e5"
     }
   ]
 }
